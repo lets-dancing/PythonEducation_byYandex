@@ -51,7 +51,7 @@
 
 ## Спринт 2. Калькулятор денег и калорий ##
 
-[Знакомство с ООП в Python.]('https://github.com/lets-dancing/hw_python_oop')
+<a href="https://github.com/lets-dancing/hw_python_oop" target="_blank" title="https://github.com/lets-dancing/hw_python_oop">Знакомство с ООП в Python.</a>
 
 Классы, методы, наследование. Всё по минимуму.
 
@@ -59,7 +59,7 @@
 
 ## Спринт 3. Сообщества ##
 
-[Знакомство с фреймворком Django.]('https://github.com/lets-dancing/hw02_community')
+<a href="https://github.com/lets-dancing/hw02_community" target="_blank" title="https://github.com/lets-dancing/hw02_community">Знакомство с фреймворком Django.</a>
 
 Задание проекта:
 * Создано и зарегистрировано приложение Posts.
