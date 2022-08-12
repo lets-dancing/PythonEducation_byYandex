@@ -90,7 +90,7 @@
 
 ## Спринт 5. Покрытие тестами ##
 
-[Unittest в Django.]('https://github.com/lets-dancing/hw04_tests')
+<a href="https://github.com/lets-dancing/hw04_tests" target="_blank" title="https://github.com/lets-dancing/hw04_tests">Unittest в Django.</a>
 
 В теории рассмотрены аспекты покрытия тестами проекта на Django.
 В проекте требуется воплотить эти знания в коде.
@@ -99,7 +99,7 @@
 
 ## Спринт 6. Подписки на авторов ##
 
-[Окончание знакомства с фреймворком Django.]('https://github.com/lets-dancing/hw05_final')
+<a href="https://github.com/lets-dancing/hw05_final" target="_blank" title="https://github.com/lets-dancing/hw05_final">Окончание знакомства с фреймворком Django.</a>
 
 Задачи проекта:
 
@@ -143,7 +143,7 @@
 
 ## Спринт 7. Бот ассистент. ##
 
-[Бот для Telegram с минимальным функционалом.]('https://github.com/lets-dancing/kittygram2')
+<a href="https://github.com/lets-dancing/kittygram2" target="_blank" title="https://github.com/lets-dancing/kittygram2">Бот для Telegram с минимальным функционалом.</a>
 
 
 Задачи проекта:
@@ -162,6 +162,7 @@
 ## Спринт 8. CRUD для Yatube ##
 
 [Знакомство с системным построением API.]('https://github.com/lets-dancing/api_yatube')
+<a href="https://github.com/lets-dancing/api_yatube" target="_blank" title="https://github.com/lets-dancing/api_yatube">Знакомство с системным построением API.</a>
 
 Задачи проекта:
 
@@ -173,7 +174,7 @@
 
 ## Спринт 9. API для Yatube ##
 
-[Воплощение документации в API.]('https://github.com/lets-dancing/api_final_yatube')
+<a href="https://github.com/lets-dancing/api_final_yatube" target="_blank" title="https://github.com/lets-dancing/api_final_yatube">Воплощение документации в API.</a>
 
 Задачи проекта:
 
@@ -188,7 +189,7 @@
 
 ## Спринт 10. Проект YaMDb ##
 
-[Первый опыт командной работы.]('https://github.com/lets-dancing/api_yamdb')
+<a href="https://github.com/lets-dancing/api_yamdb" target="_blank" title="https://github.com/lets-dancing/api_yamdb">Первый опыт командной работы.</a>
 
 Задачи проекта:
 
@@ -256,12 +257,12 @@
 
 ## Спринт 15. Docker: приложение в коробке. ##
 
-Запуск проекта, используя Docker (база данных PostgreSQL)
+<a href="https://github.com/lets-dancing/infra_sp2" target="_blank" title="https://github.com/lets-dancing/infra_sp2">Запуск проекта, используя Docker (база данных PostgreSQL).</a>
 
 [*к оглавлению блока*](#Блок_4)  [*в начало*](#Начало)
 
 ## Спринт 16. DevOps: Эффективный и удобный метод разработки. ##
   
-Автоматизация развертывания проекта, используя Workflow.
+<a href="https://github.com/lets-dancing/yamdb_final" target="_blank" title="https://github.com/lets-dancing/yamdb_final">Автоматизация развертывания проекта, используя Workflow.</a>
   
 [*к оглавлению блока*](#Блок_4)  [*в начало*](#Начало)
